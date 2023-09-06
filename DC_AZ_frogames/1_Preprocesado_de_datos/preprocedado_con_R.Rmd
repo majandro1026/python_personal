@@ -1,0 +1,13 @@
+---
+title: "preprocesado_con_R"
+author: "Manuel Pacheco"
+date: "2023-08-19"
+output: html_document
+---
+
+## Importando un dataset
+
+```{r}
+data = read.csv('../material/Part 1 - Data Preprocessing/Section 2 -------------------- Part 1 - Data Preprocessing --------------------/R/Data.csv')
+```
+
